@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "27GD62T6SR.onearvo.AVX" ],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Opens the app for any link on this domain"
+          }
+        ]
+      }
+    ]
+  }
+}
